@@ -11,6 +11,6 @@ package com.mycompany.ice2git;
 public class ICE2GIt {
 
     public static void main(String[] args) {
-        System.out.println("rev 2 local!");
+        System.out.println("rev 3 local!");
     }
 }
